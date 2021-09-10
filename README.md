@@ -4,7 +4,7 @@ In this week project we are going to analyze data for **PyBer** - a *ride-sharin
 
 ## Overview
 
-After an initial analysis of the data, we need to create a ride-sharing table summarizing important information and a multiple-line graph of the total weekly fares along 4 months for each city type, which allows us to gather insights about the differences among the three city types: *Urban*, *Suburban*, and  *Rural*.  Pandas-Python in jupyter notebook was used for coding and creating the dataframe and the line chart plot (Here it is the [code](https://raw.githubusercontent.com/LeidyDoradoM/PyBerAnalysis_Challenge/main/PyBer_Challenge.ipynb)).  
+After an initial analysis of the data, we need to create a ride-sharing table summarizing important information and a multiple-line graph of the total weekly fares along 4 months for each city type, which allows us to gather insights about the differences among the three city types: *Urban*, *Suburban*, and  *Rural*.  Pandas-Python in jupyter notebook was used for coding and creating the dataframe and the line chart plot (Here it is the [code](https://github.com/LeidyDoradoM/PyBerAnalysis_Challenge/blob/main/PyBer_Challenge.ipynb)).  
 
 ## Results
 
